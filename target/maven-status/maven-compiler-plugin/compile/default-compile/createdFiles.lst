@@ -1,0 +1,13 @@
+com\wldnist\alfacarttest\repository\RoleRepository.class
+com\wldnist\alfacarttest\repository\EmployeeRepository.class
+com\wldnist\alfacarttest\config\CustomerDateAndTimeDeserialize.class
+com\wldnist\alfacarttest\controller\EmployeeController.class
+com\wldnist\alfacarttest\exception\ResourceNotFoundException.class
+com\wldnist\alfacarttest\controller\SalaryController.class
+com\wldnist\alfacarttest\repository\SalaryRepository.class
+com\wldnist\alfacarttest\model\Salary.class
+com\wldnist\alfacarttest\controller\DogsController.class
+com\wldnist\alfacarttest\model\Role.class
+com\wldnist\alfacarttest\App.class
+com\wldnist\alfacarttest\model\Employee.class
+com\wldnist\alfacarttest\controller\RoleController.class
